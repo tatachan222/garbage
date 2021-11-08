@@ -1,7 +1,7 @@
 package test.main.java.springframework;
 
-import main.java.springframework.BeanDefinition;
-import main.java.springframework.BeanFactory;
+import main.java.springframework.factory.config.BeanDefinition;
+import main.java.springframework.factory.BeanFactory;
 import org.junit.Test;
 import test.main.java.springframework.bean.UserService;
 
